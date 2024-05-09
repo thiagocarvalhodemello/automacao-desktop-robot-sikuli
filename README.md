@@ -8,3 +8,9 @@
 * [Sikuli IDE](https://launchpad.net/sikuli/sikulix/2.0.5/+download/sikulixide-2.0.5.jar)
 
 "Clique nos titulos para ser redirecionado a pagina de download"
+
+# instalando robot framework e lib sikuli 
+
+* pip install robotframework
+
+* pip install robotframework-SikuliLibrary
