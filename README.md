@@ -1,6 +1,6 @@
 # automacao-desktop-robot-sikuli
 
-## Projeto com intuito de estudo em automação em Desktop utilizando as ferramentas e tecnologias:
+## Projeto de estudo em automação de Desktop com ferramentas e tecnologias:
 
 * [Python 3](https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe)
 * [Robot Framework](https://robotframework.org/?tab=1#getting-started)
@@ -9,9 +9,10 @@
 
 * [Documentação Sikule library](https://rainmanwy.github.io/robotframework-SikuliLibrary/doc/SikuliLibrary.html#library-documentation-top)
 
-"Clique nos titulos para ser redirecionado a pagina de download"
+"Clique nos titulos acima para download de arquivos necessarios do projeto!"
 
-# instalando robot framework e lib sikuli 
+# Instalando Robot Framework e Lib Sikuli 
+na raiz do projeto abra o terminal e execute os comandos:
 
 * pip install robotframework
 
